@@ -28,6 +28,7 @@ KPI´s:
 - Products sold + Margin ratio by unit of measure
 - Total revenues + Margin ratio + Costs + Coffee Revenues + Nr. of customers
 by Store City and Neighborhood
+
 Slicers to filter the data and all KPIs:
 - Time of the day
 - Product Group
@@ -44,6 +45,7 @@ KPI´s:
 - Total Waste % by weekday
 - Total Waste
 - Products sold
+
 Slicers to filter the data and all KPIs:
 - Store address
 - Employee
@@ -61,6 +63,7 @@ by Employee
 - Total Goal
 - Total Revenues
 - Coffee Mix % (of total products sold) by weekday
+
 Slicers to filter the data and all KPIs:
 - Employee
 
